@@ -1,0 +1,5 @@
+.ipynb*
+.DS_Store
+*.pyc
+data/omniglot/data/*
+*.zip
